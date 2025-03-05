@@ -7,8 +7,8 @@ namespace Topic_5._2___If_and_Else_Statements
         {
             Console.WriteLine("Task 1 - Multiple Choice");
             Console.WriteLine();
-            string choice,question2,question4,answer2,answer4;
-            int question3,answer3;
+            string choice, question2, question4, answer2, answer4;
+            int question3, answer3;
 
 
             Console.Write("What is the worst weapon in Call of Duty World at War Zombies?");
