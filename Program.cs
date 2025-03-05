@@ -43,7 +43,7 @@ namespace Topic_5._2___If_and_Else_Statements
             Console.WriteLine();
 
 
-            Console.Write("In Call of Duty Zombies which introduce us to the first four main charaters (Tank Dempsey, Nikolia Beilski, Takeo Masaki, Edward Richtofin)? ");
+            Console.Write("In which Call of Duty Zombies map introduce us to the first four main charaters (Tank Dempsey, Nikolia Beilski, Takeo Masaki, Edward Richtofin)? ");
             question2 = Console.ReadLine().ToLower();
             Console.WriteLine();
             answer2 = "shi no numa";
